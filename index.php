@@ -72,13 +72,7 @@
         </div>
 
         <div class="row activity text-center">
-            <div class="col-md act">
-                <img src="img/user.jpg" alt="userimg" class="img-fluid">
-                <br>
-                <a href="createuser.php"><button style="background-color: #C86DFB;">Create User</button></a>
-            </div>
-
-            <div class="col-md act">
+          <div class="col-md act">
                 <img src="img/transfer.jpg" alt="transferimg" class="img-fluid">
                 <br>
                 <a href="transfermoney.php"><button style="background-color: #C86DFB;" >Make a Transaction</button></a>
